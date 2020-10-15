@@ -10,7 +10,7 @@ R was the programming language used to perform analyses and clean the data.
 
 The original dataset that was provided needs to be imported into the environment. When testing the code in another computer, one needs to adjust the location of the original dataset to match the location in the computer, as well as modify the location in which the clean dataset (at the end of the script) will be saved.
 
-*Modify these lines*
+*Modify these lines:*
 
 > Line 2: data = read.csv("C:/Users/andre/Downloads/Q4 '20 Data Specialist Exercise - Data - Original Data.csv")
 
